@@ -98,4 +98,7 @@ Terraform creates infrastructure, Ansible configures it, and Kubernetes runs con
 # Installing Ansible
 ![alt text](<lab requirement.png>)
 <br> <br>
-![alt text](<requirement using ansible.png>)
+![alt text](<requirement using ansible.png>) <br>
+# vm architecture
+
+![alt text](<vm architecture.png>)
