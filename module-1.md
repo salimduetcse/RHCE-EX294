@@ -1,3 +1,4 @@
+# Lesson-1
 # What is Ansible.
 Ansible is an open-source IT automation and configuration management tool used to automate tasks such as:
 - Server provisioning
@@ -91,6 +92,10 @@ Chef	    | Configuration management (Ruby-based)
 Terraform	| Infrastructure provisioning
 Kubernetes	| Container orchestration
 
-A simple way to think about it:
 Terraform creates infrastructure, Ansible configures it, and Kubernetes runs containerized applications on it.
 
+# Lesson-2
+# Installing Ansible
+![alt text](<lab requirement.png>)
+<br> <br>
+![alt text](<requirement using ansible.png>)
